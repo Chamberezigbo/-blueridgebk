@@ -4,7 +4,9 @@
 <head>
      <meta charset="UTF-8">
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
-     <title>Welcome to Citizens Financial Institutions</title>
+     <title>Home › Blue Ridge Bank and Trust Co.</title>
+     <meta name="description" content="" />
+     <meta name="keywords" content="" />
      <style>
           /* Add your custom CSS styles here */
           body {
@@ -55,20 +57,20 @@
 <body>
      <div class="container">
           <div class="header">
-               <img class="logo" src="https://www.citizenscommercialins.com/images/logo.png" alt="Citizens Financial Institutions Logo">
-               <h1>Welcome to Citizens Financial Institutions</h1>
+               <img class="logo" src="https://www.blueridgebk.com/assets/img/blue-ridge-bank-and-trust-co.svg" alt="Blue Ridge Bank">
+               <h1>Welcome to Blue Ridge Bank</h1>
           </div>
           <div class="content">
                <p>Hello ##surname##,</p>
-               <p>Welcome to Citizens Financial Institutions, where your financial journey begins! We're thrilled to have you as a valued customer, and we're here to provide you with the best banking experience.</p>
+               <p>Welcome to Blue Ridge Bank, where your financial journey begins! We're thrilled to have you as a valued customer, and we're here to provide you with the best banking experience.</p>
                <p>With our secure and user-friendly online banking platform, you can conveniently manage your accounts, pay bills, transfer funds, and more, all from the comfort of your home or on-the-go.</p>
                <p>To get started, simply click the button below to access your online banking account:</p>
                <p><a class="button" href="https://www.citizenscommercialins.com">Access Your Account With Username:##email## Password: ##password##</a></p>
                <p>If you have any questions or need assistance, our dedicated customer support team is ready to help. Feel free to contact us at info@citizensfinancialinstitutions.com or +12025686466.</p>
-               <p>Thank you for choosing Citizens Financial Institutions. We look forward to serving you and helping you achieve your financial goals.</p>
+               <p>Thank you for choosing Blue Ridge Bank. We look forward to serving you and helping you achieve your financial goals.</p>
           </div>
           <div class="footer">
-               <p>© 2023 Citizens Financial Institutions. All rights reserved.</p>
+               <p>© 2024 Blue Ridge Bank. All rights reserved.</p>
           </div>
      </div>
 </body>
