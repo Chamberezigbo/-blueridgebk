@@ -10,8 +10,8 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery"></script>
 <!-- Change the "src" attribute according to your installation path -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.1/jquery.validate.min.js"></script>
-<script src="../js/form-validation.js"></script>
-<script src="../js/formStep.js"></script>
+<script src="../assets/js/form-validation.js"></script>
+<script src="../assets/js/formStep.js"></script>
 
 <script type="text/javascript">
      function googleTranslateElementInit() {
