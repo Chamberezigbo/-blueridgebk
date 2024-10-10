@@ -6,10 +6,9 @@ $dbPass = "";
 $dbName = "banking";
 
 // $dbHost = "localhost";
-// $dbUser = "bluerid3_bluerid3";
-// $dbPass = "nmesoma5050";
-// $dbName = "meshipst_online_banking";
-// N1Pza&WP[uHN
+// $dbUser = "bluerid4_bluerid4";
+// $dbPass = "bluerid4_bluerid4";
+// $dbName = "bluerid4_bluerid4";
 
 
 $conn = mysqli_connect($dbHost, $dbUser, $dbPass, $dbName);

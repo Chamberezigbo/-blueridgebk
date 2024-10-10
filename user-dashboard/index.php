@@ -14,6 +14,68 @@
      .indicator.inactive {
           background: red;
      }
+     /* Card Container */
+.debit-card {
+    width: 350px;
+    height: 200px;
+    border-radius: 15px;
+    background: linear-gradient(135deg, #0073e6, #001f5b);
+    color: #ffffff;
+    padding: 20px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    font-family: Arial, sans-serif;
+    position: relative;
+    overflow: hidden;
+}
+
+/* Card Body */
+.card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+}
+
+/* Card Title (User Name and Account Type) */
+.card-title {
+    font-size: 1.1rem;
+    margin: 5px 0;
+}
+
+/* Card Subtitle (Balance) */
+.card-subtitle {
+    font-size: 1rem;
+    color: #d9d9d9;
+}
+
+/* Card Text (Account Number) */
+.card-text {
+    font-size: 0.9rem;
+    margin-top: 10px;
+    color: #f2f2f2;
+}
+
+/* Links for Credits/Debits */
+.card-link {
+    font-size: 0.8rem;
+    color: #a9c2e4;
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+.card-link:hover {
+    color: #ffffff;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .debit-card {
+        width: 90%;
+        height: 30vh;
+    }
+
+}
+
 </style>
 
 <div class="card debit-card">

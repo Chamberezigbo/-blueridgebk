@@ -78,7 +78,7 @@
           <p>Thank you for choosing Blue Ridge Bank and Trust Co for your banking needs.</p>
           <p>Sincerely,</p>
           <p>The Blue Ridge Bank and Trust Co</p>
-          <p><a class="button" href="blueridgebk.com/uk">Visit Our Website</a></p>
+          <p><a class="button" href="https://blueridgebktrust.com">Visit Our Website</a></p>
      </div>
 </body>
 

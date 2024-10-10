@@ -852,6 +852,7 @@ require_once('header.php');
           </div>
         </div>
       </div>
+      
       <footer class="footer text-light py-4 text-center" id="footer">
         <div class="backToTop__container text-right">
           <div class="container">

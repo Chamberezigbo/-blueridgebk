@@ -8,7 +8,7 @@
           <div class="card-body">
                <h5 class="card-title">Getting Started</h5>
                <p>
-                    Citizens Financial welcomes you. We offer different services to customers ranging from mortgage, loan, investment, sells of shares and stakes, and any financial services at request.
+                    Blue Ridge Bank and Trust Co. welcomes you. We offer different services to customers ranging from mortgage, loan, investment, sells of shares and stakes, and any financial services at request.
                </p>
                <hr>
           </div>
@@ -23,7 +23,7 @@
                <hr>
                <h5 class="card-title">Transaction Reversal</h5>
                <p>
-                    Citizens Financial Bank offers it's customers the right to request for transaction reversal by sending a request to our transaction monitoring department at info@citizensfinancial.com within 48 hours after transaction was initiated. This request will be attended to and reversal will be made within 5 working days
+                    Blue Ridge Bank and Trust Co. Bank offers it's customers the right to request for transaction reversal by sending a request to our transaction monitoring department at info@citizensfinancial.com within 48 hours after transaction was initiated. This request will be attended to and reversal will be made within 5 working days
                </p>
                <hr>
                <h5 class="card-title">Online Banking</h5>
